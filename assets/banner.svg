@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Rivaldo Linogi — Software Engineer</title>
+  <desc id="desc">Dark navy and gold professional banner for the GitHub profile of Rivaldo Linogi.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#030914"/>
+      <stop offset="0.55" stop-color="#071426"/>
+      <stop offset="1" stop-color="#0b2038"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8f6b18"/>
+      <stop offset="0.48" stop-color="#f1d27a"/>
+      <stop offset="1" stop-color="#b98a22"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="70%" cy="45%" r="65%">
+      <stop offset="0" stop-color="#d4a017" stop-opacity=".18"/>
+      <stop offset="1" stop-color="#d4a017" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#6c87a5" stroke-opacity=".08" stroke-width="1"/>
+    </pattern>
+    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="frame"><rect width="1200" height="340" rx="26"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="340" fill="url(#background)"/>
+    <rect width="1200" height="340" fill="url(#grid)"/>
+    <rect width="1200" height="340" fill="url(#glow)"/>
+
+    <path d="M740-30 1230 120 1230 390 850 390 650 180Z" fill="#0e2d4c" opacity=".42"/>
+    <path d="M910-40 1230 38 1230 290 1010 232 780 50Z" fill="#153d63" opacity=".34"/>
+
+    <g fill="none" stroke="url(#gold)" stroke-width="2" opacity=".6">
+      <path d="M770 52h164l74 74h192"/>
+      <path d="M716 282h212l58-58h214"/>
+      <path d="M858 112h134l38 38h170" opacity=".5"/>
+    </g>
+    <g fill="#e7b65c" filter="url(#softGlow)">
+      <circle cx="770" cy="52" r="4"/>
+      <circle cx="1008" cy="126" r="4"/>
+      <circle cx="928" cy="282" r="4"/>
+      <circle cx="986" cy="224" r="4"/>
+    </g>
+
+    <g transform="translate(70 58)">
+      <rect x="0" y="0" width="58" height="58" rx="15" fill="#0b1d32" stroke="#d4a017" stroke-width="2"/>
+      <path d="M18 18h10l-8 11 8 11H18L10 29Zm22 0H30l8 11-8 11h10l8-11Z" fill="url(#gold)"/>
+
+      <text x="0" y="112" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="48" font-weight="750" letter-spacing="1">RIVALDO LINOGI</text>
+      <rect x="0" y="132" width="420" height="3" rx="1.5" fill="url(#gold)"/>
+      <text x="0" y="174" fill="#e7b65c" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21" font-weight="650" letter-spacing="3">SOFTWARE ENGINEER</text>
+      <text x="0" y="208" fill="#a8bbcf" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" letter-spacing="1">ENTERPRISE SYSTEMS  •  MOBILE  •  IoT  •  PROJECT LEADERSHIP</text>
+    </g>
+
+    <g transform="translate(926 164)">
+      <rect x="0" y="0" width="220" height="86" rx="14" fill="#06101f" stroke="#31506d" stroke-width="1.5"/>
+      <circle cx="24" cy="22" r="4" fill="#e7b65c"/>
+      <circle cx="40" cy="22" r="4" fill="#56708b"/>
+      <circle cx="56" cy="22" r="4" fill="#56708b"/>
+      <text x="22" y="55" fill="#7896b4" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13">$ build --with</text>
+      <text x="22" y="74" fill="#f1d27a" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13">purpose &amp;&amp; impact</text>
+    </g>
+
+    <rect x="0" y="332" width="1200" height="8" fill="url(#gold)"/>
+  </g>
+</svg>
+
