@@ -117,18 +117,18 @@ I design and build practical technology for real operational environments—from
 ## GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rivlin07&show_icons=true&hide_border=true&bg_color=071426&title_color=e7b65c&icon_color=d4a017&text_color=dce7f5&ring_color=e7b65c" alt="Rivaldo's GitHub statistics" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rivlin07&theme=github_dark" alt="Rivaldo's GitHub statistics" />
   <img width="49%" src="https://streak-stats.demolab.com?user=rivlin07&hide_border=true&background=071426&ring=e7b65c&fire=d4a017&currStreakLabel=e7b65c&sideLabels=dce7f5&dates=8ca0ba&currStreakNum=ffffff&sideNums=ffffff" alt="Rivaldo's GitHub streak" />
 </div>
 
 <div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=rivlin07&bg_color=071426&color=e7b65c&line=d4a017&point=ffffff&area=true&area_color=8f6b18&hide_border=true&custom_title=Contribution%20Activity" alt="Rivaldo's contribution graph" />
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rivlin07&theme=github_dark" alt="Rivaldo's contribution summary" />
 </div>
 
 ## Contribution Journey
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rivlin07/rivlin07/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" />
+  <img src="https://raw.githubusercontent.com/rivlin07/rivlin07/gh-pages/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" />
 </div>
 
 ---
